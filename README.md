@@ -1,4 +1,4 @@
-# 👋 Hoi, i'm Ikrima!  
+# 👋 Hi, i'm Ikrima!  
 
 🌍 From the Netherlands  
 🎓 A curious student, always open to learning new things  
