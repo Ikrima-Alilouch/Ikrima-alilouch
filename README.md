@@ -1,4 +1,4 @@
-# 👋 Hi, i'm Ikrima!  
+# 👋 Hi, I'm Ikrima!  
 
 🌍 From the Netherlands  
 🎓 A curious student, always open to learning new things  
@@ -19,6 +19,12 @@
 ## ⚡ Fun Fact  
 I’m a huge fan of **souls-like-**, **roguelike-**, and **fighting games** 🎮.  
 When I’m not gaming, you’ll probably find me **wrestling** 🤼‍♂️ or **walking outside to recharge and appreciate life** 🌿.  
+
+---
+
+## ✨ Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikrima-alilouch-7295bb304/)  
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID_HERE)  
 
 ---
 
