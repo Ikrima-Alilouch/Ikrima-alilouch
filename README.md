@@ -17,7 +17,7 @@
 ---
 
 ## ⚡ Fun Fact  
-I’m a huge fan of **souls-like**, **roguelike**, and **fighting games** 🎮.  
+I’m a huge fan of **souls-like-**, **roguelike-**, and **fighting games** 🎮.  
 When I’m not gaming, you’ll probably find me **wrestling** 🤼‍♂️ or **walking outside to recharge and appreciate life** 🌿.  
 
 ---
