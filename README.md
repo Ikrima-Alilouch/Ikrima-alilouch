@@ -1,8 +1,8 @@
 # 👋 Hoi, ik ben Ikrima!  
 
-🌍 Uit Nederland  
-🎓 Student die openstaat om nieuwe dingen te leren  
-🎮 Gamer | 🤼‍♂️ Worstelen | 🚶 Wandelen  
+🌍 From the Netherlands  
+🎓 A curious student, always open to learning new things  
+🎮 Gamer | 🤼‍♂️ Wrestler | 🚶 Walker who enjoys the simple things in life  
 
 ---
 
@@ -17,8 +17,9 @@
 ---
 
 ## ⚡ Fun Fact  
-Ik game graag, hou van worstelen en vind wandelen heerlijk om mijn hoofd leeg te maken!  
+I’m a huge fan of **souls-like**, **roguelike**, and **fighting games** 🎮.  
+When I’m not gaming, you’ll probably find me **wrestling** 🤼‍♂️ or **walking outside to recharge and appreciate life** 🌿.  
 
 ---
 
-✨ Altijd open om nieuwe dingen te ontdekken en te leren!  
+✨ Always exploring, always learning — let’s build something awesome! 🚀  
