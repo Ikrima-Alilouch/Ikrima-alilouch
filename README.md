@@ -21,10 +21,4 @@ Ik game graag, hou van worstelen en vind wandelen heerlijk om mijn hoofd leeg te
 
 ---
 
-## 📊 GitHub Stats  
-![Ikrima’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikrima-Alilouch&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikrima-Alilouch&layout=compact&theme=tokyonight)  
-
----
-
 ✨ Altijd open om nieuwe dingen te ontdekken en te leren!  
