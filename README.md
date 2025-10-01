@@ -24,8 +24,6 @@ When I’m not gaming, you’ll probably find me **wrestling** 🤼‍♂️ or 
 
 ## ✨ Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikrima-alilouch-7295bb304/)  
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID_HERE)  
-
 ---
 
 ✨ Always exploring, always learning — let’s build something awesome! 🚀  
